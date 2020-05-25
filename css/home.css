@@ -247,3 +247,12 @@ p {
         flex: 50%;
     }
 }
+
+/* 추가 */
+
+@media (max-width:768px) {
+    .b1 {
+        float: left;
+        width: 100%;
+    }
+}
